@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Bring the VIP to the marked location.",
+    "TimeLimit": 180,
+    "Position": [
+        8348.3896484375,
+        0.0,
+        10724.7001953125
+    ],
+    "MaxDistance": 20.0,
+    "AIVIP": {
+        "NPCLoadoutFile": "BanditLoadout.json"
+    },
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 1
+}
