@@ -5,8 +5,10 @@ mpmissions/*/storage_*/
 
 # Server profiles
 profiles/BattlEye/
+profiles/EventManagerLog/
 profiles/*.log
 profiles/*.RPT
+profiles/*.mdmp
 
 # Misc dirs needed for server runtime
 _CommonRedist/
