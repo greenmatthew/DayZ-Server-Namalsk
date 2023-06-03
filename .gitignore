@@ -3,6 +3,11 @@
 # Server storage
 mpmissions/*/storage_*/
 
+# Server profiles
+profiles/BattlEye/
+profiles/*.log
+profiles/*.RPT
+
 # Misc dirs needed for server runtime
 _CommonRedist/
 addons/
