@@ -1,1 +1,18 @@
+# Mods
+@*
+# Server storage
 mpmissions/*/storage_*/
+
+# Misc dirs needed for server runtime
+_CommonRedist/
+addons/
+battleye/
+bliss/
+docs/
+dta/
+keys/
+steamapps/
+
+# Namalsk Specific
+mpmissions/dayzOffline.chernarusplus/
+mpmissions/dayzOffline.enoch/
