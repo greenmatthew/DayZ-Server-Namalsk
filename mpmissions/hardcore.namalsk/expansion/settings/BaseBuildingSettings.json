@@ -51,71 +51,7 @@
     "AutomaticFlagOnCreation": 1,
     "GetTerritoryFlagKitAfterBuild": 0,
     "BuildZoneRequiredCustomMessage": "",
-    "Zones": [
-        {
-            "Name": "Airstrip Trader",
-            "Center": [
-                6305.0,
-                26.0,
-                9521.0
-            ],
-            "Radius": 400.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap",
-                "ExplosivesBase"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        },
-        {
-            "Name": "Jalovisko Trader Camp",
-            "Center": [
-                8583.669921875,
-                29.0,
-                10515.0
-            ],
-            "Radius": 200.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap",
-                "ExplosivesBase"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        },
-        {
-            "Name": "Tara Harbor Boat Trader",
-            "Center": [
-                8043.4501953125,
-                10.0,
-                7593.4501953125
-            ],
-            "Radius": 200.0,
-            "Items": [
-                "Fireplace",
-                "LandMineTrap",
-                "BearTrap",
-                "FishNetTrap",
-                "RabbitSnareTrap",
-                "SmallFishTrap",
-                "TripwireTrap",
-                "ExplosivesBase"
-            ],
-            "IsWhitelist": 1,
-            "CustomMessage": ""
-        }
-    ],
+    "Zones": [],
     "ZonesAreNoBuildZones": 1,
     "CodelockAttachMode": 1,
     "DismantleFlagMode": 1,
