@@ -1199,6 +1199,9 @@
     <input name="UAExpansionQuestLogToggle">
         <btn name="kO" />
     </input>
+    <input name="UAZBerryOpenAdminMenu">
+        <btn name="kO" />
+    </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />

@@ -2910,4 +2910,6 @@
 			<item name="ExpansionAmmoLAW" chance="1.00" />
 		</attachments>
 	</type>
+
+    
 </spawnabletypes>
