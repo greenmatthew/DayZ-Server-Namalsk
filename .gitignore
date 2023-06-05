@@ -9,6 +9,8 @@ profiles/EventManagerLog/
 profiles/*.log
 profiles/*.RPT
 profiles/*.mdmp
+profiles/ExpansionMod/Hardline/PlayerData/
+profiles/PermissionsFramework/Permissions/
 
 # Misc dirs needed for server runtime
 _CommonRedist/
